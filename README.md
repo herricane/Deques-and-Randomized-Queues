@@ -589,23 +589,13 @@ Test 2: check that the maximum size of any Deque or RandomizedQueue object
 Test 3 (bonus): check that maximum size of any or Deque or RandomizedQueue object
                 created is equal to k
   * filename = tale.txt, n = 138653, k = 5
-    - max size of RandomizedQueue object = 138653
-
   * filename = tale.txt, n = 138653, k = 50
-    - max size of RandomizedQueue object = 138653
-
   * filename = tale.txt, n = 138653, k = 500
-    - max size of RandomizedQueue object = 138653
-
   * filename = tale.txt, n = 138653, k = 5000
-    - max size of RandomizedQueue object = 138653
-
   * filename = tale.txt, n = 138653, k = 50000
-    - max size of RandomizedQueue object = 138653
+==> passed
 
-==> FAILED
-
-Total: 2/2 tests passed!
+Total: 3/2 tests passed!
 
 
 ================================================================
